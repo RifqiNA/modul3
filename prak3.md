@@ -142,4 +142,5 @@ Create SubDomain dev.vm.local with rules :
   
   * Just reconnecting the wifi, and check dev.vm.local on the browser :D
 
+    ![image](https://user-images.githubusercontent.com/93064971/146416726-0d837a92-07ac-44bb-9232-5e23151d0796.png)
     
